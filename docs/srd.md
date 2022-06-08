@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ikigai
+title: SRD
+parent: Dokumenty
 nav_order: 1
-permalink: /
 ---

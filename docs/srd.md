@@ -51,14 +51,23 @@ Gracze angażują się we wspólną wizję świata, współdzielą cele postaci 
 
 ## Kwestie kulturowe
 
-### Pozycja kobiet
+### Społeczna pozycja kobiet
 
-### Pozycja innych warstw społecznych
+Prezentowana gra fabularna dotyczy fikcyjnego świata i nie stara się wiernie naśladować realiów historycznych. W związku z tym, w żaden sposób nie ograniczamy ról społecznych na bazie płci. W **Ikigai** istnieją samurajki (kobiety samuraje) i mają one dokładnie taką samą pozycję jak ich męskie odpowiedniki. Dotyczy to zarówno przywilejów jak i obowiązków.
+
+### Bohaterownie niezależni z innych warstw społecznych
+
+Samuraje należą do grupy uprzywilejowanej. Tym samym mogą sobie pozwolić na lekceważenie a nawet pogardę w stosunku do osób stojących niżej w hierarchi społecznej. Mam jednak serdeczną prośbę do wszystkich, którzy zechcą  grać w **Ikigai**: nie róbmy z tego standardowej praktyki. Nawet w realiach historycznych, złe traktowanie ludzi niższego stanu uważano za niegodne - nie ma nic szlachetnego w poniżaniu słabszych od siebie.
+
+### Giri czyli wypełnianie obowiązku
+
+Koncepcja obowiązku, który postać nakłada sama na siebie, czasem nawet wbrew własnym pragnieniom, może być problematyczna dla graczy, którzy nie mają żadnych doświadczeń z kulturami Wschodu. W sytuacji gdy gracze nie czują się komfortowo z takim podejściem, proponuję nie naciskać. Wystarczy, że wyobrazimy sobie, iż posłuszeństwo i myślenie prospołeczne są normą a bunt w społeczności świata **Ikigai** zawsze łączy się z jakimś dramatem.
 
 ## Tworzenie postaci
 
-**Imię, przeszłość i cechy**  
-Najpierw wybierz lub wylosuj **imię** dla swojej postaci z tabeli [**Imię i przeszłość**](#imię-i-przeszłość-(d20)), następnie wybierz jej **przeszłość**, która informuje o wiedzy i potencjalnych umiejętnościach.
+### Imię, przeszłość i cechy
+
+Najpierw wybierz lub wylosuj **imię** dla swojej postaci z tabeli [**Imię i przeszłość**](#imię-i-przeszłość-(k20)), następnie wybierz jej **przeszłość**, która informuje o wiedzy i potencjalnych umiejętnościach.
 
 Jeśli chcesz, w kolejnym kroku wylosuj resztę **cech** postaci (wygląd, mowa, manieryzmy, przekonania, reputacja, itp) z tabel [**Cechy postaci**](#cechy-postaci-(k10)).
 
@@ -73,13 +82,13 @@ Postacie graczy posiadają trzy zdolności: **Ciało**, **Umysł** i **Serce**. 
 - **Serce** to współczynnik określający zdolności bohatera w zakresie odczuwania i odczytywania emocji, poczucia honoru i godności osobistej a także empatii.
 
 **Przykład:**
-Meiko rzuca na **Ciało** swojej postaci i uzyskuje wyniki **2**, **4**, **6**, dające w sumie **12**. Następne dwa rzuty dają **9** dla **Umysłu** oraz **13** dla **Serca**. Ines decyduje się na wymianę **12** z **9**, a zatem jej postać ma **9 Ciała**, **12 Umysłu** i **13** **Serca**.
+Meiko rzuca na **Ciało** swojej postaci i uzyskuje wyniki **2**, **4**, **6**, dające w sumie **12**. Następne dwa rzuty dają **9** dla **Umysłu** oraz **13** dla **Serca**. Meiko decyduje się na wymianę **12** z **9**, a zatem jej postać ma **9 Ciała**, **12 Umysłu** i **13** **Serca**.
 
 ### Ochrona przed trafieniem
 
 Rzuć 1k6 aby określić początkową wartość atrybutu **Ochrona przed trafieniem** (OCHR), który odzwierciedla umiejętność unikania obrażeń w walce. OCHR nie opisuje zdrowia ani wytrzymałości postaci; postacie nie tracą też tego współczynnika na zbyt długi czas (patrz **Leczenie**). Jeśli atak zredukuje OCHR postaci do zera, gracz musi wylosować efekt z tabeli **Blizny**.
 
-#### Wyposażenie
+### Wyposażenie
 
 W kulturze świata wzorowanego na średniowiecznej Japonii, gracze wcielający się w postacie samurajów nie będą zajmowali się targaniem ekwipunku.
 Każdy wojownik ma przy sobie oczywiście swoje miecze (katanę i wakizashi) oraz ubranie, ale nie nosi żadnych toreb, plecaków czy worków. Drobne przedmioty takie jak wachlarz, sentymentalne pamiątki, listy lub dokumenty można zatknąć za pas, więc praktycznie nie zajmują miejsca.
@@ -88,7 +97,7 @@ Spora część przedmiotów codziennego użytku będzie też po prostu dostępna
 
 W związku z tym, postacie graczy nie mają wydzielonego miejsca na ekwipunek. Zakładamy, że każdy bohater posiada parę mieczy, miejsce na drobne przedmioty osobiste, miejsce na jedną dodatkową broń oraz możliwość założenia zbroi. Dodatkową bronią może być łuk, włócznia czy nawet muszkiet - miecze samurajskie są oczywiście bronią ale przede wszystkim pełnią funkcję znacznika statusu, więc nie każdy samuraj preferuje walkę mieczem.
 
-#### Status klanu i ranga rodziny
+### Status klanu i ranga rodziny
 
 ## Imię i przeszłość (k20)
 
@@ -124,3 +133,15 @@ W związku z tym, postacie graczy nie mają wydzielonego miejsca na ekwipunek. Z
 | 4   | Ige    | 9   | Morikawa  | 14  | Tagawa  | 19  | Yamagata  |
 | 5   | Imada  | 10  | Nakano    | 15  | Takano  | 20  | Yoshihara |
 
+
+## Cechy postaci (k10)
+
+### Budowa
+
+|     |              |     |          |
+| --- | ------------ | --- | -------- |
+| 1   | Wysportowana | 6   | Chuda    |
+| 2   | Krzepka      | 7   | Niska    |
+| 3   | Wiotka       | 8   | Posągowa |
+| 4   | Mizerna      | 9   | Gruba    |
+| 5   | Solidna      | 10  | Wysoka   |
